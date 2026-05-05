@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>My Static Site</title></head>
+<body>
+    <h1>Hello from CI/CD!</h1>
+    <p>Deployed via Jenkins + Docker + GitHub webhook.</p>
+</body>
+</html>
